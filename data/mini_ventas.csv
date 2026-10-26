@@ -1,0 +1,8 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+1001,P001,USB Charger,2,2011-01-01 09:00:00,10.00,1001,Chile
+C1002,P001,USB Charger,-1,2011-01-02 10:00:00,10.00,1001,Chile
+1003,P001,USB Charger Cable,1,2011-01-03 11:00:00,12.00,1001,Chile
+1004,P002,Desk Lamp,1,2011-01-04 12:00:00,0.00,1001,Chile
+1005,P003,Gift Bag,2,2011-01-05 13:00:00,, ,Chile
+1006,P004,Unknown Customer Mug,3,2011-01-06 14:00:00,5.00,,Chile
+1001,P001,USB Charger,2,2011-01-01 09:00:00,10.00,1001,Chile

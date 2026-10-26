@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+dataretail360.db
+*.db
+logs/*.log
+logs/reportes/*.json
+!logs/.gitkeep
+!logs/reportes/.gitkeep
+.pytest_cache/
+.coverage
